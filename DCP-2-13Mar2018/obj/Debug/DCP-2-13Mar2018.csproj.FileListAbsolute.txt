@@ -1,0 +1,6 @@
+c:\users\trent\documents\visual studio 2017\Projects\DCP-2-13Mar2018\DCP-2-13Mar2018\bin\Debug\DCP-2-13Mar2018.exe.config
+c:\users\trent\documents\visual studio 2017\Projects\DCP-2-13Mar2018\DCP-2-13Mar2018\bin\Debug\DCP-2-13Mar2018.exe
+c:\users\trent\documents\visual studio 2017\Projects\DCP-2-13Mar2018\DCP-2-13Mar2018\bin\Debug\DCP-2-13Mar2018.pdb
+c:\users\trent\documents\visual studio 2017\Projects\DCP-2-13Mar2018\DCP-2-13Mar2018\obj\Debug\DCP-2-13Mar2018.csprojResolveAssemblyReference.cache
+c:\users\trent\documents\visual studio 2017\Projects\DCP-2-13Mar2018\DCP-2-13Mar2018\obj\Debug\DCP-2-13Mar2018.exe
+c:\users\trent\documents\visual studio 2017\Projects\DCP-2-13Mar2018\DCP-2-13Mar2018\obj\Debug\DCP-2-13Mar2018.pdb
